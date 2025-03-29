@@ -1,0 +1,17 @@
+https://github.com/darth-web/HackTheBox
+https://github.com/mza7a/pentest-checklist
+https://github.com/Hackplayers/hackthebox-writeups/tree/master
+https://github.com/SrivathsanNayak/ethical-hacking-notes/tree/main
+https://github.com/Twigonometry/Cybersecurity-Notes
+https://github.com/jon-brandy/hackthebox
+https://github.com/uppusaikiran/awesome-ctf-cheatsheet
+https://github.com/kurohat/writeUp
+https://github.com/the-robot/offsec/tree/master
+https://github.com/darth-web/HackTheBox
+https://github.com/sbencoding/htb_ca2023_writeups
+https://github.com/g1vi/AllTheWriteUps/tree/main
+https://github.com/xiosec/CTF-writeups
+https://github.com/DanielBoye/hackthebox
+https://github.com/dev-angelist/Writeups-and-Walkthroughs
+https://github.com/hackthebox/Hackster
+https://github.com/GreyDGL/PentestGPT/tree/main
