@@ -15,3 +15,5 @@ https://github.com/DanielBoye/hackthebox
 https://github.com/dev-angelist/Writeups-and-Walkthroughs
 https://github.com/hackthebox/Hackster
 https://github.com/GreyDGL/PentestGPT/tree/main
+https://github.com/wtsxDev/Penetration-Testing
+https://github.com/darth-web/HackTheBox/tree/master
