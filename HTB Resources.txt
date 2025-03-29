@@ -19,5 +19,7 @@ https://github.com/wtsxDev/Penetration-Testing
 https://github.com/darth-web/HackTheBox/tree/master
 :---------------------------------------------------------------------------------------------------
 Where all HTB Walkthrough available
-
+https://www.hackthebox.com/machines/
 https://0xdf.gitlab.io/
+https://jlanguell.github.io/
+https://ethicalhacs.com/
